@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "swstrebe-ssg"
+  title: "swstrebe-portfolio-ssg"
   navbar:
     left:
       - href: index.qmd
